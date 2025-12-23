@@ -1,0 +1,9 @@
+Time complexity
+Rate of increase in time with respect to input size 
+
+1. Always calculate time complexity in worst case
+2. Avoid the constant values
+3. Avoid lower bound
+
+Space complexity
+Auxiliary space + input space

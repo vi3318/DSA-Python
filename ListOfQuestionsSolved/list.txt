@@ -1,0 +1,15 @@
+Neetcode 150 
+
+Contains duplicates
+Two Sum
+
+
+Leetcode 
+Maximum consecutive ones
+Missing number
+Move Zeroes
+Rotate array
+Fibonacci
+Two Sum
+find the Maximum subarray
+Buy and Sell stock
